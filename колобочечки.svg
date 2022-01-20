@@ -1,0 +1,32 @@
+<svg width="1000"; height="600" style="border: solid green 2px;">
+        <ellipse rx="60" ry="20" cx="320" cy="400" fill="#d4d4d4"></ellipse>
+        <ellipse rx="60" ry="20" cx="580" cy="400" fill="#d4d4d4"></ellipse>
+        <circle r="100" cx="320" cy="300" fill="#ffa700"></circle> 
+        <circle r="100" cx="580" cy="300" fill="#ffd800"></circle>
+        <circle r="40" cx="308" cy="280" fill="white"></circle>  
+        <circle r="40" cx="358" cy="280" fill="white"></circle> 
+        <circle r="9" cx="365" cy="280" fill="black"></circle> 
+        <circle r="9" cx="308" cy="280" fill="black"></circle>
+        <circle r="12" cx="335" cy="320" fill="black"></circle>
+        <circle r="40" cx="592" cy="280" fill="white"></circle> 
+        <circle r="40" cx="542" cy="280" fill="white"></circle> 
+        <circle r="9" cx="534" cy="280" fill="black"></circle> 
+        <circle r="9" cx="590" cy="280" fill="black"></circle>
+        <ellipse rx="18" ry="9" cx="320" cy="355" fill="#dd0c39"></ellipse>
+        <ellipse rx="8" ry="15" cx="565" cy="358" fill="#dd0c39"></ellipse>
+        <ellipse rx="60" ry="25" cx="175" cy="330" fill="#ffa700" transform="rotate(20, 234, 330)"></ellipse>
+        <polygon points="125,288 157,284 143,313" fill="white"></polygon>
+        <!--<polygon points="264,223 290,211 262,192" fill="red"></polygon>-->
+        <polygon points="255,226 290,211 258,200" fill="#ffa700"></polygon>
+        <polygon points="348,205 377,220 373,196" fill="#ffa700"></polygon>
+       
+        <polygon points="258,225 283,212 261,205" fill="black"></polygon>
+        <polygon points="348,210 373,222 370,201" fill="black"></polygon>
+        
+        
+        
+        
+
+         
+
+    </svg>
